@@ -162,4 +162,4 @@ The MIT License governs the use of this project. For further information, see th
 For inquiries, recommendations, or joint ventures, please contact:
 
 - **Email address**: abolfazlsli911@gmail.com , visualizemathematical@gmail.com
-- **Author**: Shaghayegh Bagherian and Abolfazl Salehi
+- **Author**: Shaghayegh Bagherian and <a href="https://github.com/abolfazlsli/">Abolfazl Salehi</a>
