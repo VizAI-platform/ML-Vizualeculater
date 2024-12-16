@@ -161,5 +161,5 @@ The MIT License governs the use of this project. For further information, see th
 
 For inquiries, recommendations, or joint ventures, please contact:
 
-- **Email address**: abolfazlsli911@gmail.com , shaqayeq.bbb@gmail.com
+- **Email address**: shaqayeq.bbb@gmail.com , abolfazlsli911@gmail.com
 - **Author**: <a href="https://github.com/shaqayeq-B" target="_blank">Shaghayegh Bagherian</a> and <a href="https://github.com/abolfazlsli/" target="_blank">Abolfazl Salehi</a>
